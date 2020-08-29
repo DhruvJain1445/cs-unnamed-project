@@ -1,1 +1,0 @@
-sudoku, anagram, line connect
